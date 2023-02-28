@@ -1,0 +1,4 @@
+customer1 233444
+customer2 345666
+cust 111222
+fatima 98765
